@@ -1,0 +1,8 @@
+{
+  "port" : ":8080",
+  "login" : "admin",
+  "password" : "admin",
+  "timeout" : 3,
+  "config_limit" :8
+
+}

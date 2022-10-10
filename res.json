@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Ноутбук HAIER U1520HD, U1520HD,  черный",
+    "price": 18990,
+    "reference": "https://www.citilink.ru/product/noutbuk-haier-u1520hd-cel-n4020-4gb-1tb-emmc64gb-600-15-6-ips-fhd-dos-1611418/properties/",
+    "screen_resolution": "1920х1080",
+    "cpu_frequency": 1100.000023841858,
+    "cpu_cores": 2,
+    "ram": 4,
+    "gpuram": 0,
+    "storage": 1064000,
+    "rating": 160038.06000476837
+  },
+  {
+    "name": "Ноутбук HP 240 G8, 27K37EA,  черный",
+    "price": 18990,
+    "reference": "https://www.citilink.ru/product/noutbuk-hp-240-g8-cel-n4020-4gb-500gb-14-sva-hd-dos3-0-1478497/properties/",
+    "screen_resolution": "1366х768",
+    "cpu_frequency": 1100.000023841858,
+    "cpu_cores": 2,
+    "ram": 4,
+    "gpuram": 0,
+    "storage": 500000,
+    "rating": 75335.60880476839
+  },
+  {
+    "name": "Ноутбук IRBIS NB NB656, NB656,  черный",
+    "price": 14990,
+    "reference": "https://www.citilink.ru/product/noutbuk-irbis-nb-nb656-pen-j3710-4gb-13-5-ips-w10pro-silver-5000mah-1598740/properties/",
+    "screen_resolution": "3000х2000",
+    "cpu_frequency": 1600.000023841858,
+    "cpu_cores": 4,
+    "ram": 4,
+    "gpuram": 0,
+    "storage": 128000,
+    "rating": 20370.70000476837
+  },
+  {
+    "name": "Ноутбук IRBIS NB NB655, NB655,  серебристый",
+    "price": 15990,
+    "reference": "https://www.citilink.ru/product/noutbuk-irbis-nb-nb655-pen-j3710-4gb-emmc128gb-13-5-ips-3k-w10pro-silv-1512589/properties/",
+    "screen_resolution": "3000х2000",
+    "cpu_frequency": 1600.000023841858,
+    "cpu_cores": 4,
+    "ram": 4,
+    "gpuram": 0,
+    "storage": 128000,
+    "rating": 20360.70000476837
+  },
+  {
+    "name": "Ноутбук Digma EVE 14 P416, ES4062EW,  темно-серый",
+    "price": 17990,
+    "reference": "https://www.citilink.ru/product/noutbuk-digma-eve-14-p4xx-14-1-ips-intel-pentium-j3710-4gb-128gb-ssd-i-1470833/properties/",
+    "screen_resolution": "1920х1080",
+    "cpu_frequency": 1600.000023841858,
+    "cpu_cores": 4,
+    "ram": 4,
+    "gpuram": 0,
+    "storage": 128000,
+    "rating": 19948.06000476837
+  },
+  {
+    "name": "Ноутбук Digma EVE 15 P417, ES5063EW,  темно-серый",
+    "price": 18990,
+    "reference": "https://www.citilink.ru/product/noutbuk-digma-eve-15-p4xx-15-6-ips-intel-pentium-j3710-4gb-128gb-ssd-i-1470838/properties/",
+    "screen_resolution": "1920х1080",
+    "cpu_frequency": 1600.000023841858,
+    "cpu_cores": 4,
+    "ram": 4,
+    "gpuram": 0,
+    "storage": 128000,
+    "rating": 19938.06000476837
+  },
+  {
+    "name": "Ноутбук Digma EVE 15 C419, ES5065EW,  темно-серый",
+    "price": 0,
+    "reference": "https://www.citilink.ru/product/noutbuk-digma-eve-15-celeron-hd-ips-cel-n4020-4gb-ssd128gb-600-15-6-ip-1497691/properties/",
+    "screen_resolution": "1920х1080",
+    "cpu_frequency": 1100.000023841858,
+    "cpu_cores": 2,
+    "ram": 4,
+    "gpuram": 0,
+    "storage": 128000,
+    "rating": 19827.96000476837
+  },
+  {
+    "name": "Ноутбук Digma EVE 14 C424, ET4070EW,  темно-синий",
+    "price": 0,
+    "reference": "https://www.citilink.ru/product/noutbuk-digma-eve-14-c4xx-cel-n3350-4gb-ssd128gb-500-14-tn-hd-w10hsl64-1504832/properties/",
+    "screen_resolution": "1366х768",
+    "cpu_frequency": 1100.000023841858,
+    "cpu_cores": 2,
+    "ram": 4,
+    "gpuram": 0,
+    "storage": 128000,
+    "rating": 19725.50880476837
+  },
+  {
+    "name": "Ноутбук Digma EVE 14 C411, ES4058EW,  темно-серый",
+    "price": 17990,
+    "reference": "https://www.citilink.ru/product/noutbuk-digma-eve-14-windows-14-1-ips-intel-celeron-n3350-4gb-128gb-ss-1442113/properties/",
+    "screen_resolution": "1920х1080",
+    "cpu_frequency": 1100.000023841858,
+    "cpu_cores": 2,
+    "ram": 4,
+    "gpuram": 0,
+    "storage": 128000,
+    "rating": 19648.06000476837
+  },
+  {
+    "name": "Ноутбук IRBIS NB NB701, 17.3\",  Intel  Celeron  N4020 1.1ГГц, 4ГБ, 128ГБ eMMC,  Intel HD Graphics  6",
+    "price": 17090,
+    "reference": "https://www.citilink.ru/product/noutbuk-irbis-nb-nb701-cel-n4020-4gb-emmc128gb-600-17-3-tn-hd-w10pro-b-1636558/properties/",
+    "screen_resolution": "1600х900",
+    "cpu_frequency": 1100.000023841858,
+    "cpu_cores": 2,
+    "ram": 4,
+    "gpuram": 0,
+    "storage": 128000,
+    "rating": 19593.70000476837
+  }
+]
